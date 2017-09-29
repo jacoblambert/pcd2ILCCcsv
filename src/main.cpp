@@ -5,7 +5,7 @@
 #include <string>
 #include <pcl/io/pcd_io.h>
 #include <pcl/point_types.h>
-#include <velodyne_pointcloud/point_types.h>
+#include <point_types.h>
 
 using namespace std;
 using namespace pcl;
