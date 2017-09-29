@@ -1,2 +1,0 @@
-/usr/bin/ar cq libpcd2ILCCcsv.a  CMakeFiles/pcd2ILCCcsv.dir/src/main.cpp.o
-/usr/bin/ranlib libpcd2ILCCcsv.a
